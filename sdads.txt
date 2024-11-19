@@ -1,0 +1,23 @@
+React to NextJs : 
+
+ 
+
+I've started learning Nextjs and  I noticed that NextJs does many thing that we have to do ourselves in React  .
+
+
+
+Routing: we used react-router-dom to handle routing but in Next we use file based routing meaning creating folders and using that flder name as route 
+
+
+
+Suspense: We just have to add a loading componet in the route and if there is a network call or promise that takes time the loading will appear before rendeing which is cool
+
+
+
+
+
+ My first Project using Next Js is a Wikipedia search tool that fetches information directly from Wikipedia.I will share more about it later when it is completed.
+
+ 
+
+I'm eager to expand my skills and build more projects! 💡 If you have any project ideas that could be valuable or interesting, I’d love to hear them.  #NextJS #WebDevelopment #LearningJourney #ProjectIdeas
